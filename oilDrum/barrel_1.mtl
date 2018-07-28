@@ -12,7 +12,7 @@ newmtl barrel_1
 	Kd 0.6400 0.6400 0.6400
 	Ks 0.5000 0.5000 0.5000
 	Ke 0.0000 0.0000 0.0000
-	map_Kd F:\Modeling\Blender3D\Turbosquid\Oil_barrels\barrel_1\Reliz\barrel_1_obj\textures\barrel_1_diffuse.png
-	map_Ks F:\Modeling\Blender3D\Turbosquid\Oil_barrels\barrel_1\Reliz\barrel_1_obj\textures\barrel_1_specular.png
-	map_bump F:\Modeling\Blender3D\Turbosquid\Oil_barrels\barrel_1\Reliz\barrel_1_obj\textures\barrel_1_normal.png
-	bump F:\Modeling\Blender3D\Turbosquid\Oil_barrels\barrel_1\Reliz\barrel_1_obj\textures\barrel_1_normal.png
+	map_Kd textures\barrel_1_diffuse.png
+	map_Ks textures\barrel_1_specular.png
+	map_bump textures\barrel_1_normal.png
+	bump textures\barrel_1_normal.png
