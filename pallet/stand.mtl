@@ -12,5 +12,5 @@ newmtl Material__37
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka \plywood.jpg
-	map_Kd \plywood.jpg
+	map_Ka textures\plywood.jpg
+	map_Kd textures\plywood.jpg
